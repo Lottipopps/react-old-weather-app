@@ -1,8 +1,8 @@
 import React from "react";
 import "./styles.css";
-import "./Forecast";
-import "./Searchform";
-import "./Footer";
+import Forecast from "./Forecast.js";
+import Searchform from "./Searchform.js";
+import Footer from "./Footer.js";
 
 function App() {
   return (
